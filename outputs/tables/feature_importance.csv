@@ -1,0 +1,11 @@
+feature,display_feature,importance
+remainder__tool_wear_min,Tool Wear,0.206668
+remainder__rotational_speed_rpm,Rotational Speed,0.205968
+remainder__torque_nm,Torque,0.204512
+remainder__mechanical_power_kw,Mechanical Power,0.191332
+remainder__temperature_difference_k,Temperature Difference,0.094036
+remainder__air_temperature_k,Air Temperature,0.048253
+remainder__process_temperature_k,Process Temperature,0.034429
+categorical__type_L,Product Type L,0.006596
+categorical__type_M,Product Type M,0.005264
+categorical__type_H,Product Type H,0.002943
