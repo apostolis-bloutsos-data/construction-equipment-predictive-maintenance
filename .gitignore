@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Environment / secrets
+.env
+.env.*
+
+# Downloaded / generated datasets
+data/raw/*
+data/processed/*
+
+# Keep data directory structure in Git
+!data/raw/.gitkeep
+!data/processed/.gitkeep
